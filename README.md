@@ -13,7 +13,7 @@ A simple, responsive QR code component built with HTML and CSS. The design encou
 
 ## Demo
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-using-css-grid-4b0TW1V0sA)
 - Live Site URL: [GitHub Pages](https://rebeccadoesweb.github.io/qr-code-component/)
 
 
