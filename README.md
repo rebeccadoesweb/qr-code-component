@@ -14,7 +14,7 @@ A simple, responsive QR code component built with HTML and CSS. The design encou
 ## Demo
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub Pages]()
+- Live Site URL: [GitHub Pages](https://rebeccadoesweb.github.io/qr-code-component/)
 
 
 ## Tech Stack
